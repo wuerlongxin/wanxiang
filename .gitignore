@@ -1,0 +1,17 @@
+node_modules/
+.venv/
+dist/
+.env
+.env.*.local
+.DS_Store
+coverage/
+output/
+tmp/
+artifacts/
+qa/screenshots/
+npm-debug.log*
+src-tauri/target/
+src-tauri/gen/
+docs/images/generated-deck/raw/
+docs/images/generated-deck/artwork/
+docs/images/generated-deck/cards/
