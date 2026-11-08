@@ -1,0 +1,66 @@
+name: Release macOS DMG
+
+on:
+  push:
+    tags:
+      - "v*.*.*"
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    name: Build and publish Apple Silicon DMG
+    runs-on: macos-14
+    steps:
+      - name: Check out release tag
+        uses: actions/checkout@v5
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install Rust toolchain
+        uses: dtolnay/rust-toolchain@stable
+        with:
+          targets: aarch64-apple-darwin
+
+      - name: Install JavaScript dependencies
+        run: npm ci
+
+      - name: Build macOS application and DMG
+        env:
+          RELEASE_TAG: ${{ github.ref_name }}
+        run: |
+          VERSION="${RELEASE_TAG#v}"
+          [[ "$VERSION" =~ ^[0-9]+\.[0-9]+\.[0-9]+$ ]]
+          bash scripts/build-macos-dmg.sh --config "{\"version\":\"${VERSION}\"}"
+
+      - name: Prepare release assets
+        id: package
+        run: |
+          DMG_PATH="$(find src-tauri/target/release/bundle/dmg -maxdepth 1 -type f -name '*_aarch64.dmg' -print -quit)"
+          test -n "$DMG_PATH"
+          VERSION="${GITHUB_REF_NAME#v}"
+          PUBLISH_DMG="$RUNNER_TEMP/wanxiang-deck_${VERSION}_aarch64.dmg"
+          cp "$DMG_PATH" "$PUBLISH_DMG"
+          CHECKSUM_PATH="${PUBLISH_DMG}.sha256"
+          (cd "$(dirname "$PUBLISH_DMG")" && shasum -a 256 "$(basename "$PUBLISH_DMG")") > "$CHECKSUM_PATH"
+          echo "dmg_path=$PUBLISH_DMG" >> "$GITHUB_OUTPUT"
+          echo "checksum_path=$CHECKSUM_PATH" >> "$GITHUB_OUTPUT"
+
+      - name: Publish GitHub release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          DMG_PATH: ${{ steps.package.outputs.dmg_path }}
+          CHECKSUM_PATH: ${{ steps.package.outputs.checksum_path }}
+        run: |
+          gh release create "$GITHUB_REF_NAME" \
+            "$DMG_PATH" \
+            "$CHECKSUM_PATH" \
+            --repo "$GITHUB_REPOSITORY" \
+            --title "万象卡域 $GITHUB_REF_NAME" \
+            --generate-notes \
+            --verify-tag
