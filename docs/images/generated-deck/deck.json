@@ -1,0 +1,1554 @@
+{
+  "artStyleId": "silk-landscape",
+  "author": "鲸屿",
+  "cardBack": {
+    "label": "星图回响 · 原型套装",
+    "seed": 9022,
+    "style": "circuit"
+  },
+  "cards": [
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-01.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 1,
+      "author": "万象学徒",
+      "cost": 1,
+      "defense": 1,
+      "flavor": "星图回响卷第1-1印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-01",
+          "pairRole": "a"
+        }
+      ],
+      "id": "ai-1785440126755-memory-01-a",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 A·1-1",
+      "rarity": "普通",
+      "skill": "【玩法印谱】配对 01 的 A 半契，需与 B 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 A”职责，按玩法槽位 1-1 的词条结算。",
+      "title": "配对线索 A · 配对线索 A·第1-1位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-02.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 1,
+      "author": "万象学徒",
+      "cost": 1,
+      "defense": 2,
+      "flavor": "星图回响卷第1-2印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-01",
+          "pairRole": "b"
+        }
+      ],
+      "id": "ai-1785440126755-memory-01-b",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 B·1-2",
+      "rarity": "普通",
+      "skill": "【玩法印谱】配对 01 的 B 半契，需与 A 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 B”职责，按玩法槽位 1-2 的词条结算。",
+      "title": "配对线索 B · 配对线索 B·第1-2位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-03.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 2,
+      "author": "万象学徒",
+      "cost": 1,
+      "defense": 1,
+      "flavor": "星图回响卷第1-3印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-02",
+          "pairRole": "a"
+        }
+      ],
+      "id": "ai-1785440126755-memory-02-a",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 A·1-3",
+      "rarity": "普通",
+      "skill": "【玩法印谱】配对 02 的 A 半契，需与 B 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 A”职责，按玩法槽位 1-3 的词条结算。",
+      "title": "配对线索 A · 配对线索 A·第1-3位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-04.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 2,
+      "author": "万象学徒",
+      "cost": 1,
+      "defense": 2,
+      "flavor": "星图回响卷第1-4印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-02",
+          "pairRole": "b"
+        }
+      ],
+      "id": "ai-1785440126755-memory-02-b",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 B·1-4",
+      "rarity": "普通",
+      "skill": "【玩法印谱】配对 02 的 B 半契，需与 A 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 B”职责，按玩法槽位 1-4 的词条结算。",
+      "title": "配对线索 B · 配对线索 B·第1-4位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-05.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 3,
+      "author": "万象学徒",
+      "cost": 1,
+      "defense": 1,
+      "flavor": "星图回响卷第1-5印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-03",
+          "pairRole": "a"
+        }
+      ],
+      "id": "ai-1785440126755-memory-03-a",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 A·1-5",
+      "rarity": "稀有",
+      "skill": "【玩法印谱】配对 03 的 A 半契，需与 B 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 A”职责，按玩法槽位 1-5 的词条结算。",
+      "title": "配对线索 A · 配对线索 A·第1-5位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-06.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 3,
+      "author": "万象学徒",
+      "cost": 1,
+      "defense": 2,
+      "flavor": "星图回响卷第1-6印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-03",
+          "pairRole": "b"
+        }
+      ],
+      "id": "ai-1785440126755-memory-03-b",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 B·1-6",
+      "rarity": "稀有",
+      "skill": "【玩法印谱】配对 03 的 B 半契，需与 A 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 B”职责，按玩法槽位 1-6 的词条结算。",
+      "title": "配对线索 B · 配对线索 B·第1-6位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-07.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 4,
+      "author": "万象学徒",
+      "cost": 1,
+      "defense": 1,
+      "flavor": "星图回响卷第1-7印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-04",
+          "pairRole": "a"
+        }
+      ],
+      "id": "ai-1785440126755-memory-04-a",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 A·1-7",
+      "rarity": "普通",
+      "skill": "【玩法印谱】配对 04 的 A 半契，需与 B 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 A”职责，按玩法槽位 1-7 的词条结算。",
+      "title": "配对线索 A · 配对线索 A·第1-7位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-08.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 4,
+      "author": "万象学徒",
+      "cost": 1,
+      "defense": 2,
+      "flavor": "星图回响卷第1-8印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-04",
+          "pairRole": "b"
+        }
+      ],
+      "id": "ai-1785440126755-memory-04-b",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 B·1-8",
+      "rarity": "普通",
+      "skill": "【玩法印谱】配对 04 的 B 半契，需与 A 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 B”职责，按玩法槽位 1-8 的词条结算。",
+      "title": "配对线索 B · 配对线索 B·第1-8位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-09.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 5,
+      "author": "万象学徒",
+      "cost": 1,
+      "defense": 1,
+      "flavor": "星图回响卷第2-1印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-05",
+          "pairRole": "a"
+        }
+      ],
+      "id": "ai-1785440126755-memory-05-a",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 A·2-1",
+      "rarity": "普通",
+      "skill": "【玩法印谱】配对 05 的 A 半契，需与 B 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 A”职责，按玩法槽位 2-1 的词条结算。",
+      "title": "配对线索 A · 配对线索 A·第2-1位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-10.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 5,
+      "author": "万象学徒",
+      "cost": 1,
+      "defense": 2,
+      "flavor": "星图回响卷第2-2印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-05",
+          "pairRole": "b"
+        }
+      ],
+      "id": "ai-1785440126755-memory-05-b",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 B·2-2",
+      "rarity": "普通",
+      "skill": "【玩法印谱】配对 05 的 B 半契，需与 A 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 B”职责，按玩法槽位 2-2 的词条结算。",
+      "title": "配对线索 B · 配对线索 B·第2-2位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-11.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 6,
+      "author": "万象学徒",
+      "cost": 1,
+      "defense": 1,
+      "flavor": "星图回响卷第2-3印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-06",
+          "pairRole": "a"
+        }
+      ],
+      "id": "ai-1785440126755-memory-06-a",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 A·2-3",
+      "rarity": "史诗",
+      "skill": "【玩法印谱】配对 06 的 A 半契，需与 B 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 A”职责，按玩法槽位 2-3 的词条结算。",
+      "title": "配对线索 A · 配对线索 A·第2-3位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-12.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 6,
+      "author": "万象学徒",
+      "cost": 1,
+      "defense": 2,
+      "flavor": "星图回响卷第2-4印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-06",
+          "pairRole": "b"
+        }
+      ],
+      "id": "ai-1785440126755-memory-06-b",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 B·2-4",
+      "rarity": "史诗",
+      "skill": "【玩法印谱】配对 06 的 B 半契，需与 A 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 B”职责，按玩法槽位 2-4 的词条结算。",
+      "title": "配对线索 B · 配对线索 B·第2-4位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-13.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 7,
+      "author": "万象学徒",
+      "cost": 1,
+      "defense": 1,
+      "flavor": "星图回响卷第2-5印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-07",
+          "pairRole": "a"
+        }
+      ],
+      "id": "ai-1785440126755-memory-07-a",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 A·2-5",
+      "rarity": "普通",
+      "skill": "【玩法印谱】配对 07 的 A 半契，需与 B 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 A”职责，按玩法槽位 2-5 的词条结算。",
+      "title": "配对线索 A · 配对线索 A·第2-5位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-14.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 7,
+      "author": "万象学徒",
+      "cost": 1,
+      "defense": 2,
+      "flavor": "星图回响卷第2-6印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-07",
+          "pairRole": "b"
+        }
+      ],
+      "id": "ai-1785440126755-memory-07-b",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 B·2-6",
+      "rarity": "普通",
+      "skill": "【玩法印谱】配对 07 的 B 半契，需与 A 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 B”职责，按玩法槽位 2-6 的词条结算。",
+      "title": "配对线索 B · 配对线索 B·第2-6位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-15.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 8,
+      "author": "万象学徒",
+      "cost": 1,
+      "defense": 1,
+      "flavor": "星图回响卷第2-7印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-08",
+          "pairRole": "a"
+        }
+      ],
+      "id": "ai-1785440126755-memory-08-a",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 A·2-7",
+      "rarity": "普通",
+      "skill": "【玩法印谱】配对 08 的 A 半契，需与 B 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 A”职责，按玩法槽位 2-7 的词条结算。",
+      "title": "配对线索 A · 配对线索 A·第2-7位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-16.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 8,
+      "author": "万象学徒",
+      "cost": 1,
+      "defense": 2,
+      "flavor": "星图回响卷第2-8印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-08",
+          "pairRole": "b"
+        }
+      ],
+      "id": "ai-1785440126755-memory-08-b",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 B·2-8",
+      "rarity": "普通",
+      "skill": "【玩法印谱】配对 08 的 B 半契，需与 A 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 B”职责，按玩法槽位 2-8 的词条结算。",
+      "title": "配对线索 B · 配对线索 B·第2-8位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-17.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 9,
+      "author": "万象学徒",
+      "cost": 1,
+      "defense": 1,
+      "flavor": "星图回响卷第3-1印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-09",
+          "pairRole": "a"
+        }
+      ],
+      "id": "ai-1785440126755-memory-09-a",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 A·3-1",
+      "rarity": "稀有",
+      "skill": "【玩法印谱】配对 09 的 A 半契，需与 B 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 A”职责，按玩法槽位 3-1 的词条结算。",
+      "title": "配对线索 A · 配对线索 A·第3-1位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-18.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 9,
+      "author": "万象学徒",
+      "cost": 1,
+      "defense": 2,
+      "flavor": "星图回响卷第3-2印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-09",
+          "pairRole": "b"
+        }
+      ],
+      "id": "ai-1785440126755-memory-09-b",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 B·3-2",
+      "rarity": "稀有",
+      "skill": "【玩法印谱】配对 09 的 B 半契，需与 A 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 B”职责，按玩法槽位 3-2 的词条结算。",
+      "title": "配对线索 B · 配对线索 B·第3-2位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-19.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 10,
+      "author": "万象学徒",
+      "cost": 1,
+      "defense": 1,
+      "flavor": "星图回响卷第3-3印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-10",
+          "pairRole": "a"
+        }
+      ],
+      "id": "ai-1785440126755-memory-10-a",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 A·3-3",
+      "rarity": "普通",
+      "skill": "【玩法印谱】配对 10 的 A 半契，需与 B 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 A”职责，按玩法槽位 3-3 的词条结算。",
+      "title": "配对线索 A · 配对线索 A·第3-3位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-20.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 10,
+      "author": "万象学徒",
+      "cost": 1,
+      "defense": 2,
+      "flavor": "星图回响卷第3-4印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-10",
+          "pairRole": "b"
+        }
+      ],
+      "id": "ai-1785440126755-memory-10-b",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 B·3-4",
+      "rarity": "普通",
+      "skill": "【玩法印谱】配对 10 的 B 半契，需与 A 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 B”职责，按玩法槽位 3-4 的词条结算。",
+      "title": "配对线索 B · 配对线索 B·第3-4位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-21.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 11,
+      "author": "万象学徒",
+      "cost": 1,
+      "defense": 1,
+      "flavor": "星图回响卷第3-5印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-11",
+          "pairRole": "a"
+        }
+      ],
+      "id": "ai-1785440126755-memory-11-a",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 A·3-5",
+      "rarity": "普通",
+      "skill": "【玩法印谱】配对 11 的 A 半契，需与 B 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 A”职责，按玩法槽位 3-5 的词条结算。",
+      "title": "配对线索 A · 配对线索 A·第3-5位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-22.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 11,
+      "author": "万象学徒",
+      "cost": 1,
+      "defense": 2,
+      "flavor": "星图回响卷第3-6印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-11",
+          "pairRole": "b"
+        }
+      ],
+      "id": "ai-1785440126755-memory-11-b",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 B·3-6",
+      "rarity": "普通",
+      "skill": "【玩法印谱】配对 11 的 B 半契，需与 A 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 B”职责，按玩法槽位 3-6 的词条结算。",
+      "title": "配对线索 B · 配对线索 B·第3-6位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-23.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 12,
+      "author": "万象学徒",
+      "cost": 1,
+      "defense": 1,
+      "flavor": "星图回响卷第3-7印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-12",
+          "pairRole": "a"
+        }
+      ],
+      "id": "ai-1785440126755-memory-12-a",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 A·3-7",
+      "rarity": "传说",
+      "skill": "【玩法印谱】配对 12 的 A 半契，需与 B 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 A”职责，按玩法槽位 3-7 的词条结算。",
+      "title": "配对线索 A · 配对线索 A·第3-7位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-24.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 12,
+      "author": "万象学徒",
+      "cost": 1,
+      "defense": 2,
+      "flavor": "星图回响卷第3-8印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-12",
+          "pairRole": "b"
+        }
+      ],
+      "id": "ai-1785440126755-memory-12-b",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 B·3-8",
+      "rarity": "传说",
+      "skill": "【玩法印谱】配对 12 的 B 半契，需与 A 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 B”职责，按玩法槽位 3-8 的词条结算。",
+      "title": "配对线索 B · 配对线索 B·第3-8位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-25.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 13,
+      "author": "万象学徒",
+      "cost": 1,
+      "defense": 1,
+      "flavor": "星图回响卷第4-1印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-13",
+          "pairRole": "a"
+        }
+      ],
+      "id": "ai-1785440126755-memory-13-a",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 A·4-1",
+      "rarity": "普通",
+      "skill": "【玩法印谱】配对 13 的 A 半契，需与 B 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 A”职责，按玩法槽位 4-1 的词条结算。",
+      "title": "配对线索 A · 配对线索 A·第4-1位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-26.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 13,
+      "author": "万象学徒",
+      "cost": 1,
+      "defense": 2,
+      "flavor": "星图回响卷第4-2印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-13",
+          "pairRole": "b"
+        }
+      ],
+      "id": "ai-1785440126755-memory-13-b",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 B·4-2",
+      "rarity": "普通",
+      "skill": "【玩法印谱】配对 13 的 B 半契，需与 A 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 B”职责，按玩法槽位 4-2 的词条结算。",
+      "title": "配对线索 B · 配对线索 B·第4-2位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-27.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 14,
+      "author": "FL",
+      "cost": 1,
+      "defense": 1,
+      "flavor": "星图回响卷第4-3印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-14",
+          "pairRole": "a"
+        }
+      ],
+      "id": "ai-1785440126755-memory-14-a",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "FL",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 A·4-3",
+      "rarity": "普通",
+      "skill": "【玩法印谱】配对 14 的 A 半契，需与 B 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 A”职责，按玩法槽位 4-3 的词条结算。",
+      "title": "配对线索 A · 配对线索 A·第4-3位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-28.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 14,
+      "author": "万象学徒Y",
+      "cost": 1,
+      "defense": 2,
+      "flavor": "星图回响卷第4-4印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-14",
+          "pairRole": "b"
+        }
+      ],
+      "id": "ai-1785440126755-memory-14-b",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒Y",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 B·4-4",
+      "rarity": "普通",
+      "skill": "【玩法印谱】配对 14 的 B 半契，需与 A 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 B”职责，按玩法槽位 4-4 的词条结算。",
+      "title": "配对线索 B · 配对线索 B·第4-4位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-29.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 15,
+      "author": "万象学徒",
+      "cost": 1,
+      "defense": 1,
+      "flavor": "星图回响卷第4-5印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-15",
+          "pairRole": "a"
+        }
+      ],
+      "id": "ai-1785440126755-memory-15-a",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 A·4-5",
+      "rarity": "稀有",
+      "skill": "【玩法印谱】配对 15 的 A 半契，需与 B 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 A”职责，按玩法槽位 4-5 的词条结算。",
+      "title": "配对线索 A · 配对线索 A·第4-5位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-30.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 15,
+      "author": "万象学徒",
+      "cost": 1,
+      "defense": 2,
+      "flavor": "星图回响卷第4-6印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-15",
+          "pairRole": "b"
+        }
+      ],
+      "id": "ai-1785440126755-memory-15-b",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 B·4-6",
+      "rarity": "稀有",
+      "skill": "【玩法印谱】配对 15 的 B 半契，需与 A 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 B”职责，按玩法槽位 4-6 的词条结算。",
+      "title": "配对线索 B · 配对线索 B·第4-6位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-31.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 16,
+      "author": "万象学徒",
+      "cost": 1,
+      "defense": 1,
+      "flavor": "星图回响卷第4-7印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-16",
+          "pairRole": "a"
+        }
+      ],
+      "id": "ai-1785440126755-memory-16-a",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 A·4-7",
+      "rarity": "普通",
+      "skill": "【玩法印谱】配对 16 的 A 半契，需与 B 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 A”职责，按玩法槽位 4-7 的词条结算。",
+      "title": "配对线索 A · 配对线索 A·第4-7位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-32.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 16,
+      "author": "万象学徒",
+      "cost": 1,
+      "defense": 2,
+      "flavor": "星图回响卷第4-8印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-16",
+          "pairRole": "b"
+        }
+      ],
+      "id": "ai-1785440126755-memory-16-b",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 B·4-8",
+      "rarity": "普通",
+      "skill": "【玩法印谱】配对 16 的 B 半契，需与 A 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 B”职责，按玩法槽位 4-8 的词条结算。",
+      "title": "配对线索 B · 配对线索 B·第4-8位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-33.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 17,
+      "author": "万象学徒",
+      "cost": 1,
+      "defense": 1,
+      "flavor": "星图回响卷第5-1印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-17",
+          "pairRole": "a"
+        }
+      ],
+      "id": "ai-1785440126755-memory-17-a",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 A·5-1",
+      "rarity": "普通",
+      "skill": "【玩法印谱】配对 17 的 A 半契，需与 B 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 A”职责，按玩法槽位 5-1 的词条结算。",
+      "title": "配对线索 A · 配对线索 A·第5-1位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-34.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 17,
+      "author": "万象学徒",
+      "cost": 2,
+      "defense": 2,
+      "flavor": "星图回响卷第5-2印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-17",
+          "pairRole": "b"
+        }
+      ],
+      "id": "ai-1785440126755-memory-17-b",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 B·5-2",
+      "rarity": "普通",
+      "skill": "【玩法印谱】配对 17 的 B 半契，需与 A 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 B”职责，按玩法槽位 5-2 的词条结算。",
+      "title": "配对线索 B · 配对线索 B·第5-2位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-35.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 18,
+      "author": "万象学徒",
+      "cost": 2,
+      "defense": 1,
+      "flavor": "星图回响卷第5-3印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-18",
+          "pairRole": "a"
+        }
+      ],
+      "id": "ai-1785440126755-memory-18-a",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 A·5-3",
+      "rarity": "史诗",
+      "skill": "【玩法印谱】配对 18 的 A 半契，需与 B 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 A”职责，按玩法槽位 5-3 的词条结算。",
+      "title": "配对线索 A · 配对线索 A·第5-3位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-36.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 18,
+      "author": "万象学徒",
+      "cost": 2,
+      "defense": 2,
+      "flavor": "星图回响卷第5-4印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-18",
+          "pairRole": "b"
+        }
+      ],
+      "id": "ai-1785440126755-memory-18-b",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 B·5-4",
+      "rarity": "史诗",
+      "skill": "【玩法印谱】配对 18 的 B 半契，需与 A 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 B”职责，按玩法槽位 5-4 的词条结算。",
+      "title": "配对线索 B · 配对线索 B·第5-4位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-37.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 19,
+      "author": "万象学徒",
+      "cost": 2,
+      "defense": 1,
+      "flavor": "星图回响卷第5-5印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-19",
+          "pairRole": "a"
+        }
+      ],
+      "id": "ai-1785440126755-memory-19-a",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 A·5-5",
+      "rarity": "普通",
+      "skill": "【玩法印谱】配对 19 的 A 半契，需与 B 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 A”职责，按玩法槽位 5-5 的词条结算。",
+      "title": "配对线索 A · 配对线索 A·第5-5位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-38.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 19,
+      "author": "万象学徒",
+      "cost": 2,
+      "defense": 2,
+      "flavor": "星图回响卷第5-6印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-19",
+          "pairRole": "b"
+        }
+      ],
+      "id": "ai-1785440126755-memory-19-b",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 B·5-6",
+      "rarity": "普通",
+      "skill": "【玩法印谱】配对 19 的 B 半契，需与 A 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 B”职责，按玩法槽位 5-6 的词条结算。",
+      "title": "配对线索 B · 配对线索 B·第5-6位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-39.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 20,
+      "author": "万象学徒",
+      "cost": 2,
+      "defense": 1,
+      "flavor": "星图回响卷第5-7印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-20",
+          "pairRole": "a"
+        }
+      ],
+      "id": "ai-1785440126755-memory-20-a",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 A·5-7",
+      "rarity": "普通",
+      "skill": "【玩法印谱】配对 20 的 A 半契，需与 B 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 A”职责，按玩法槽位 5-7 的词条结算。",
+      "title": "配对线索 A · 配对线索 A·第5-7位"
+    },
+    {
+      "artUrl": "docs/images/generated-deck/artwork/card-40.jpg",
+      "artworkReview": {
+        "source": "ai",
+        "status": "pending"
+      },
+      "attack": 20,
+      "author": "万象学徒",
+      "cost": 2,
+      "defense": 2,
+      "flavor": "星图回响卷第5-8印：少年造物师以此牌开启新的推演。",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-20",
+          "pairRole": "b"
+        }
+      ],
+      "id": "ai-1785440126755-memory-20-b",
+      "inscriptionPlacement": "front",
+      "inscriptionStyle": "seal",
+      "inscriptionText": "万象学徒",
+      "modeId": "memory",
+      "name": "星图回响·配对线索 B·5-8",
+      "rarity": "普通",
+      "skill": "【玩法印谱】配对 20 的 B 半契，需与 A 半契相合。\n【角色灵感·不参与规则结算】在记忆配对中承担“配对线索 B”职责，按玩法槽位 5-8 的词条结算。",
+      "title": "配对线索 B · 配对线索 B·第5-8位"
+    },
+    {
+      "id": "readme-memory-21-a",
+      "name": "星图回响·玉梭星桥·A",
+      "title": "配对线索 A",
+      "modeId": "memory",
+      "artUrl": "docs/images/generated-deck/artwork/card-41.jpg",
+      "attack": 21,
+      "defense": 1,
+      "cost": 4,
+      "skill": "【玩法印谱】配对 21 的 A 半契，需与 B 半契相合。",
+      "flavor": "第 21 组星痕被分作 A 半契，云山与星潮在另一张牌上回应。",
+      "rarity": "稀有",
+      "author": "鲸屿",
+      "inscriptionStyle": "seal",
+      "inscriptionPlacement": "front",
+      "inscriptionText": "鲸屿",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-21",
+          "pairRole": "a"
+        }
+      ]
+    },
+    {
+      "id": "readme-memory-21-b",
+      "name": "星图回响·玉梭星桥·B",
+      "title": "配对线索 B",
+      "modeId": "memory",
+      "artUrl": "docs/images/generated-deck/artwork/card-42.jpg",
+      "attack": 21,
+      "defense": 2,
+      "cost": 4,
+      "skill": "【玩法印谱】配对 21 的 B 半契，需与 A 半契相合。",
+      "flavor": "第 21 组星痕被分作 B 半契，云山与星潮在另一张牌上回应。",
+      "rarity": "稀有",
+      "author": "鲸屿",
+      "inscriptionStyle": "seal",
+      "inscriptionPlacement": "front",
+      "inscriptionText": "鲸屿",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-21",
+          "pairRole": "b"
+        }
+      ]
+    },
+    {
+      "id": "readme-memory-22-a",
+      "name": "星图回响·双鹤潮汐·A",
+      "title": "配对线索 A",
+      "modeId": "memory",
+      "artUrl": "docs/images/generated-deck/artwork/card-43.jpg",
+      "attack": 22,
+      "defense": 1,
+      "cost": 4,
+      "skill": "【玩法印谱】配对 22 的 A 半契，需与 B 半契相合。",
+      "flavor": "第 22 组星痕被分作 A 半契，云山与星潮在另一张牌上回应。",
+      "rarity": "普通",
+      "author": "鲸屿",
+      "inscriptionStyle": "seal",
+      "inscriptionPlacement": "front",
+      "inscriptionText": "鲸屿",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-22",
+          "pairRole": "a"
+        }
+      ]
+    },
+    {
+      "id": "readme-memory-22-b",
+      "name": "星图回响·双鹤潮汐·B",
+      "title": "配对线索 B",
+      "modeId": "memory",
+      "artUrl": "docs/images/generated-deck/artwork/card-44.jpg",
+      "attack": 22,
+      "defense": 2,
+      "cost": 4,
+      "skill": "【玩法印谱】配对 22 的 B 半契，需与 A 半契相合。",
+      "flavor": "第 22 组星痕被分作 B 半契，云山与星潮在另一张牌上回应。",
+      "rarity": "普通",
+      "author": "鲸屿",
+      "inscriptionStyle": "seal",
+      "inscriptionPlacement": "front",
+      "inscriptionText": "鲸屿",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-22",
+          "pairRole": "b"
+        }
+      ]
+    },
+    {
+      "id": "readme-memory-23-a",
+      "name": "星图回响·月门灯阵·A",
+      "title": "配对线索 A",
+      "modeId": "memory",
+      "artUrl": "docs/images/generated-deck/artwork/card-45.jpg",
+      "attack": 23,
+      "defense": 1,
+      "cost": 4,
+      "skill": "【玩法印谱】配对 23 的 A 半契，需与 B 半契相合。",
+      "flavor": "第 23 组星痕被分作 A 半契，云山与星潮在另一张牌上回应。",
+      "rarity": "普通",
+      "author": "鲸屿",
+      "inscriptionStyle": "seal",
+      "inscriptionPlacement": "front",
+      "inscriptionText": "鲸屿",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-23",
+          "pairRole": "a"
+        }
+      ]
+    },
+    {
+      "id": "readme-memory-23-b",
+      "name": "星图回响·月门灯阵·B",
+      "title": "配对线索 B",
+      "modeId": "memory",
+      "artUrl": "docs/images/generated-deck/artwork/card-46.jpg",
+      "attack": 23,
+      "defense": 2,
+      "cost": 5,
+      "skill": "【玩法印谱】配对 23 的 B 半契，需与 A 半契相合。",
+      "flavor": "第 23 组星痕被分作 B 半契，云山与星潮在另一张牌上回应。",
+      "rarity": "普通",
+      "author": "鲸屿",
+      "inscriptionStyle": "seal",
+      "inscriptionPlacement": "front",
+      "inscriptionText": "鲸屿",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-23",
+          "pairRole": "b"
+        }
+      ]
+    },
+    {
+      "id": "readme-memory-24-a",
+      "name": "星图回响·鲸舟天图·A",
+      "title": "配对线索 A",
+      "modeId": "memory",
+      "artUrl": "docs/images/generated-deck/artwork/card-47.jpg",
+      "attack": 24,
+      "defense": 1,
+      "cost": 5,
+      "skill": "【玩法印谱】配对 24 的 A 半契，需与 B 半契相合。",
+      "flavor": "第 24 组星痕被分作 A 半契，云山与星潮在另一张牌上回应。",
+      "rarity": "传说",
+      "author": "鲸屿",
+      "inscriptionStyle": "seal",
+      "inscriptionPlacement": "front",
+      "inscriptionText": "鲸屿",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-24",
+          "pairRole": "a"
+        }
+      ]
+    },
+    {
+      "id": "readme-memory-24-b",
+      "name": "星图回响·鲸舟天图·B",
+      "title": "配对线索 B",
+      "modeId": "memory",
+      "artUrl": "docs/images/generated-deck/artwork/card-48.jpg",
+      "attack": 24,
+      "defense": 2,
+      "cost": 5,
+      "skill": "【玩法印谱】配对 24 的 B 半契，需与 A 半契相合。",
+      "flavor": "第 24 组星痕被分作 B 半契，云山与星潮在另一张牌上回应。",
+      "rarity": "传说",
+      "author": "鲸屿",
+      "inscriptionStyle": "seal",
+      "inscriptionPlacement": "front",
+      "inscriptionText": "鲸屿",
+      "gameplay": [
+        {
+          "kind": "memory",
+          "moduleId": "memory-pair-1",
+          "pairId": "pair-24",
+          "pairRole": "b"
+        }
+      ]
+    }
+  ],
+  "composition": {
+    "constraints": [
+      {
+        "description": "每组恰好由 A/B 两张牌组成。",
+        "id": "pair-count",
+        "label": "配对数"
+      },
+      {
+        "description": "不存在单张或第三张重复配对牌。",
+        "id": "cards-per-pair",
+        "label": "每组张数"
+      },
+      {
+        "description": "A/B 共享识别核心，但角色状态、动作或构图必须不同。",
+        "id": "complementary-art",
+        "label": "互补而非复制"
+      },
+      {
+        "description": "配对数会在完整成对的前提下控制在本地系统容量内。",
+        "id": "deck-range",
+        "label": "实体套牌范围"
+      }
+    ],
+    "parts": [
+      {
+        "count": 24,
+        "id": "pair-side-a",
+        "label": "配对线索 A",
+        "note": "提供每组配对的第一个视觉线索。"
+      },
+      {
+        "count": 24,
+        "id": "pair-side-b",
+        "label": "配对线索 B",
+        "note": "以互补画面完成识别关系。"
+      }
+    ],
+    "playSetup": {
+      "auxiliaryComponents": [
+        "计分标记每位玩家 1 枚",
+        "回合标记 1 枚（可选）"
+      ],
+      "cardsInPlay": {
+        "default": 36,
+        "max": 48,
+        "min": 24
+      },
+      "defaultPlayers": 4,
+      "formula": "必须按 pairId 成对取牌；2 人推荐 24 张、3–4 人推荐 36 张、5–6 人推荐 48 张，盒装不足时使用全部 48 张。",
+      "playerRange": {
+        "max": 6,
+        "min": 2
+      },
+      "summary": "4人标准局投入 36 张（盒装 24 对 / 48 张）"
+    },
+    "rationale": "本规划使用 24 对、共 48 张牌，能平铺为稳定网格并提供足够的位置记忆深度。\n互补 A/B 槽位既保留配对可辨识性，又确保每张牌都是独立内容。",
+    "recommendedTotal": 48,
+    "schemaVersion": 1,
+    "status": "complete"
+  },
+  "contentPolicy": {
+    "schemaVersion": 1,
+    "mode": "original"
+  },
+  "creatorPlaque": {
+    "displayName": "鲸屿",
+    "edition": "AI 共创完整首版",
+    "sealText": "鲸屿制",
+    "serialNumber": "AD-02-0001",
+    "signatureText": "鲸屿",
+    "studioName": "万象少年造物局"
+  },
+  "id": "readme-memory-complete-48",
+  "modeId": "memory",
+  "name": "星图回响 · 完整配对套牌",
+  "revision": {
+    "createdAt": 1785440134586,
+    "familyId": "starter-memory",
+    "reason": "deck-generation",
+    "revision": 3
+  },
+  "ruleKit": {
+    "ageFrom": 8,
+    "components": [
+      "成对图案牌",
+      "背面统一的卡牌",
+      "计分标记"
+    ],
+    "customNotes": [],
+    "durationMinutes": {
+      "max": 25,
+      "min": 10
+    },
+    "modules": [
+      {
+        "accentHex": "#4aaec8",
+        "content": {
+          "flow": [
+            "当前玩家翻开任意{{flipCount}}，所有玩家共同查看牌面。",
+            "若牌面满足本套装定义的配对条件，当前玩家收走它们并获得1分。",
+            "成功后追加回合：{{bonusTurn}}。若未配对成功，将卡牌盖回原位置并切换玩家。",
+            "任何玩家都不得移动未收走的牌，以确保位置记忆持续有效。"
+          ],
+          "objective": [
+            "记住隐藏牌的位置与特征，收集比其他玩家更多的有效配对。"
+          ],
+          "setup": [
+            "准备{{pairCount}}对卡牌，洗匀后背面朝上铺成规则网格，所有玩家都能看清每个位置。"
+          ],
+          "variants": [
+            {
+              "description": "翻牌前完成牌面指定动作，错误则立刻结束回合。",
+              "enabled": false,
+              "id": "memory-action",
+              "name": "动作校验"
+            },
+            {
+              "description": "图案相同之外，还需满足阵营、颜色或元素条件。",
+              "enabled": false,
+              "id": "memory-faction",
+              "name": "双层配对"
+            }
+          ],
+          "victory": [
+            "桌面牌全部被收走后，配对数量最多的玩家获胜。"
+          ]
+        },
+        "enabled": true,
+        "glyph": "忆",
+        "id": "memory-pair-1",
+        "name": "伏光记阵",
+        "parameters": [
+          {
+            "control": "stepper",
+            "id": "pairCount",
+            "label": "配对数量",
+            "max": 32,
+            "min": 6,
+            "step": 2,
+            "unit": "对",
+            "value": 24
+          },
+          {
+            "control": "stepper",
+            "id": "flipCount",
+            "label": "每回合翻牌",
+            "max": 2,
+            "min": 2,
+            "step": 1,
+            "unit": "张",
+            "value": 2
+          },
+          {
+            "control": "toggle",
+            "id": "bonusTurn",
+            "label": "成功后追加回合",
+            "value": true
+          }
+        ],
+        "source": "template",
+        "summary": "隐藏信息反复显现，用位置记忆完成配对。",
+        "tags": [
+          "记忆",
+          "隐藏信息",
+          "配对"
+        ],
+        "templateId": "memory-pair"
+      }
+    ],
+    "playerRange": {
+      "max": 6,
+      "min": 2
+    },
+    "schemaVersion": 1,
+    "teamMode": false,
+    "title": "星图回响玩法",
+    "victory": {
+      "mode": "module-default"
+    }
+  },
+  "rules": "24 对 A/B 半契 · 2-6 人 · 标准局 36 张 · 完整盒装 48 张",
+  "story": "本套牌从桌面作品库中已生成的 40 张《星图回响》继续补齐，最终形成 24 对、48 张的完整记忆配对盒装。A/B 半契共享识别核心，但角色动作、场景状态与画面线索互补而不复制。",
+  "theme": "星图回响"
+}

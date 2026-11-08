@@ -1,0 +1,39 @@
+{
+  "name": "wanxiang-deck",
+  "version": "0.1.2",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "desktop": "tauri dev",
+    "desktop:build": "bash scripts/build-macos-dmg.sh",
+    "tauri": "tauri",
+    "build": "tsc --noEmit && vite build",
+    "qa:print-proof": "node scripts/generate-complete-rgb-proof.ts",
+    "qa:print-proof:verify": "node scripts/verify-rgb-proof.mjs",
+    "qa:pdfx4": "node scripts/generate-complete-pdfx4-proof.ts",
+    "qa:pdfx4:verify": "node scripts/verify-pdfx4.mjs",
+    "qa:desktop-bundle": "node scripts/verify-desktop-bundle.mjs",
+    "docs:readme-assets": "python3 scripts/render-readme-deck-assets.py",
+    "preview": "vite preview --host 127.0.0.1",
+    "start": "vite preview --host 127.0.0.1",
+    "test": "node --test tests/*.test.ts"
+  },
+  "dependencies": {
+    "@tauri-apps/api": "^2.8.0",
+    "@types/matter-js": "^0.20.2",
+    "fflate": "^0.8.3",
+    "gsap": "^3.13.0",
+    "jspdf": "^3.0.2",
+    "lucide-static": "^0.468.0",
+    "matter-js": "^0.20.0",
+    "pixi.js": "8.19.0"
+  },
+  "devDependencies": {
+    "@napi-rs/canvas": "^0.1.100",
+    "@tauri-apps/cli": "^2.11.4",
+    "@types/node": "^24.1.0",
+    "typescript": "^5.8.3",
+    "vite": "^7.0.6"
+  }
+}

@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="theme-color" content="#080b0c" />
+    <meta name="description" content="万象卡域 - 本地卡牌设计与去中心化交换工具" />
+    <link rel="preload" href="./assets/fonts/source-han-sans-cn-vf.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="./assets/fonts/source-han-serif-cn-vf.woff2" as="font" type="font/woff2" crossorigin />
+    <title>万象卡域 · Wanxiang Deck</title>
+  </head>
+  <body>
+    <main id="app" aria-label="万象卡域交互画布">
+      <section id="boot-status" role="status" aria-live="polite">
+        <div class="boot-seal" aria-hidden="true">万象</div>
+        <p id="boot-status-message">正在展开万象画卷...</p>
+        <button id="boot-retry" type="button" title="重新加载万象卡域" hidden>重新加载</button>
+      </section>
+    </main>
+    <input
+      id="ime-input-bridge"
+      type="text"
+      aria-label="画布单行文本输入"
+      aria-hidden="true"
+      autocomplete="off"
+      autocapitalize="off"
+      spellcheck="false"
+      tabindex="-1"
+    />
+    <textarea
+      id="ime-bridge"
+      aria-label="画布多行文本输入"
+      aria-hidden="true"
+      autocomplete="off"
+      autocapitalize="off"
+      spellcheck="false"
+      tabindex="-1"
+    ></textarea>
+    <div id="a11y-status" role="status" aria-live="polite"></div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

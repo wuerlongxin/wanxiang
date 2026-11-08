@@ -1,0 +1,161 @@
+@font-face {
+  font-family: "Source Han Sans CN";
+  src: url("/assets/fonts/source-han-sans-cn-vf.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 250 900;
+  font-display: block;
+}
+
+@font-face {
+  font-family: "Source Han Serif CN";
+  src: url("/assets/fonts/source-han-serif-cn-vf.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 250 900;
+  font-display: block;
+}
+
+:root {
+  color-scheme: dark;
+  --font-body: "Source Han Sans CN", "PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif;
+  --font-display: "Source Han Serif CN", "Songti SC", STSong, "Noto Serif CJK SC", serif;
+  font-family: var(--font-body);
+  background: #100b0d;
+  font-synthesis: none;
+  text-rendering: geometricPrecision;
+  --safe-area-top: env(safe-area-inset-top, 0px);
+  --safe-area-right: env(safe-area-inset-right, 0px);
+  --safe-area-bottom: env(safe-area-inset-bottom, 0px);
+  --safe-area-left: env(safe-area-inset-left, 0px);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#app {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+  overscroll-behavior: none;
+  background: #100b0d;
+}
+
+body {
+  position: fixed;
+  inset: 0;
+  touch-action: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+  outline: none;
+  image-rendering: auto;
+  transform: translateZ(0);
+}
+
+#ime-input-bridge,
+#ime-bridge {
+  position: fixed;
+  left: -10000px;
+  top: 0;
+  width: 1px;
+  height: 1px;
+  opacity: 0;
+  pointer-events: none;
+}
+
+#ime-bridge {
+  resize: none;
+}
+
+#a11y-status {
+  position: fixed;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+#boot-status {
+  position: absolute;
+  inset: 0;
+  z-index: 10;
+  display: grid;
+  place-content: center;
+  justify-items: center;
+  gap: 18px;
+  padding: 32px;
+  color: #ead9b4;
+  background:
+    radial-gradient(circle at 50% 44%, rgb(116 53 38 / 22%), transparent 34%),
+    #100b0d;
+  text-align: center;
+}
+
+#boot-status[hidden] {
+  display: none;
+}
+
+.boot-seal {
+  display: grid;
+  width: 66px;
+  height: 66px;
+  place-items: center;
+  border: 1px solid rgb(222 176 89 / 88%);
+  box-shadow:
+    inset 0 0 0 5px rgb(132 39 32 / 42%),
+    0 0 32px rgb(222 176 89 / 16%);
+  color: #e7bd67;
+  background: rgb(91 25 25 / 54%);
+  font-family: var(--font-display);
+  font-size: 20px;
+  font-weight: 700;
+}
+
+#boot-status-message {
+  max-width: 520px;
+  margin: 0;
+  color: #d9c7a2;
+  font-size: 14px;
+  line-height: 1.7;
+}
+
+#boot-status.boot-failed .boot-seal {
+  border-color: rgb(210 87 65 / 92%);
+  color: #f0b098;
+  box-shadow:
+    inset 0 0 0 5px rgb(132 39 32 / 48%),
+    0 0 36px rgb(210 87 65 / 20%);
+}
+
+#boot-retry {
+  min-width: 112px;
+  height: 38px;
+  padding: 0 18px;
+  border: 1px solid rgb(222 176 89 / 78%);
+  border-radius: 4px;
+  color: #f5e7c8;
+  background: rgb(105 31 28 / 92%);
+  font: 600 13px var(--font-body);
+  cursor: pointer;
+}
+
+#boot-retry:hover,
+#boot-retry:focus-visible {
+  border-color: #efc873;
+  outline: 2px solid rgb(239 200 115 / 28%);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  canvas {
+    scroll-behavior: auto;
+  }
+}
